@@ -20,3 +20,4 @@ drwxr-xr-x  2 pance.satria StafCS 4096 Sep  9 08:37 week09
 drwxr-xr-x  2 pance.satria StafCS 4096 Sep  9 08:37 week10
 drwxr-xr-x  2 pance.satria StafCS 4096 Sep  9 08:38 xtra
 /home/fasilkom/mahasiswa/p/pance.satria/os172/week01
+Today is 09 Sep 2017 at 10:46:20
