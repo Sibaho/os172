@@ -1,0 +1,5 @@
+Free Software Definition (FSF)
+- Freedom 0: The freedom to run the program as you wish
+- Freedom 1: The freedom how to study how the program works and change it so it does your computing as you wish
+- Freedom 2: The freedom to redistribute copies so you can help your neighbor
+- Freedom 3: The freedom to distributes copies of your modified versions to others.
