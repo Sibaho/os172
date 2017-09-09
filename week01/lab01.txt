@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 pance.satria StafCS 4096 Sep  9 09:28 .
+drwx--x--x  3 pance.satria StafCS 4096 Sep  9 08:56 ..
+drwxr-xr-x  8 pance.satria StafCS 4096 Sep  9 09:01 .git
+-rw-r--r--  1 pance.satria StafCS    7 Sep  9 08:32 README.md
+drwxr-xr-x  2 pance.satria StafCS 4096 Sep  9 08:38 key
+-rw-r--r--  1 pance.satria StafCS    0 Sep  9 09:29 lab01.txt
+drwxr-xr-x  2 pance.satria StafCS 4096 Sep  9 08:37 log
+drwxr-xr-x  2 pance.satria StafCS 4096 Sep  9 08:44 sandbox
+drwxr-xr-x  2 pance.satria StafCS 4096 Sep  9 08:56 week00
+drwxr-xr-x  2 pance.satria StafCS 4096 Sep  9 08:35 week01
+drwxr-xr-x  2 pance.satria StafCS 4096 Sep  9 08:35 week02
+drwxr-xr-x  2 pance.satria StafCS 4096 Sep  9 08:35 week03
+drwxr-xr-x  2 pance.satria StafCS 4096 Sep  9 08:36 week04
+drwxr-xr-x  2 pance.satria StafCS 4096 Sep  9 08:36 week05
+drwxr-xr-x  2 pance.satria StafCS 4096 Sep  9 08:36 week06
+drwxr-xr-x  2 pance.satria StafCS 4096 Sep  9 08:36 week07
+drwxr-xr-x  2 pance.satria StafCS 4096 Sep  9 08:37 week08
+drwxr-xr-x  2 pance.satria StafCS 4096 Sep  9 08:37 week09
+drwxr-xr-x  2 pance.satria StafCS 4096 Sep  9 08:37 week10
+drwxr-xr-x  2 pance.satria StafCS 4096 Sep  9 08:38 xtra
+/home/fasilkom/mahasiswa/p/pance.satria/os172/week01
